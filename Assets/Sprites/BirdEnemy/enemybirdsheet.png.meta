@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: f077bcd569ed3114c93a497324df850c
+timeCreated: 1480003549
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemybirdsheet_0
+    21300002: enemybirdsheet_1
+    21300004: enemybirdsheet_2
+    21300006: enemybirdsheet_3
+    21300008: enemybirdsheet_4
+    21300010: enemybirdsheet_5
+    21300012: enemybirdsheet_6
+    21300014: enemybirdsheet_7
+    21300016: enemybirdsheet_8
+    21300018: enemybirdsheet_9
+    21300020: enemybirdsheet_10
+    21300022: enemybirdsheet_11
+    21300024: enemybirdsheet_12
+    21300026: enemybirdsheet_13
+    21300028: enemybirdsheet_14
+    21300030: enemybirdsheet_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemybirdsheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 62
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.438072, y: 0.41054875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 62
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.45045763, y: 0.37476772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 62
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.45045763, y: 0.41054875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 62
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.42568648, y: 0.41054875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4380722, y: 0.13772137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 68
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.41330072, y: 0.13772137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 68
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4628437, y: 0.15113895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.48761433, y: 0.23164558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.46284324, y: 0.16455682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.47316456, y: 0.45045763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.4628434, y: 0.45045763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.47522882, y: 0.45045763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.43291125, y: 0.42568648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 13
+        height: 7
+      alignment: 9
+      pivot: {x: 0.438072, y: 0.20097597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4009153, y: 0.12430366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemybirdsheet_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5123856, y: 0.2987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

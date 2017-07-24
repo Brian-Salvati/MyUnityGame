@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/raide/Desktop/Gaming496/Pong/Assets/Scenes/scene_main.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 6957e967c036fe84f9802e24dd4d5152
+timeCreated: 1479668897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OstrichPlayerSheet_0
+    21300002: OstrichPlayerSheet_1
+    21300004: OstrichPlayerSheet_2
+    21300006: OstrichPlayerSheet_3
+    21300008: OstrichPlayerSheet_4
+    21300010: OstrichPlayerSheet_5
+    21300012: OstrichPlayerSheet_6
+    21300014: OstrichPlayerSheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.41044527, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.43283388, y: 0.49191517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47761124, y: 0.49191517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4440281, y: 0.48383033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.42163938, y: 0.48383033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4776111, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4664168, y: 0.16043891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OstrichPlayerSheet_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.47761124, y: 0.1968208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
